@@ -1,0 +1,22 @@
+{
+  "name": "test_node_fetch_api",
+  "version": "1.0.0",
+  "description": "trying to test node fetch api ",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "khurrum ali",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}

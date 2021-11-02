@@ -1,0 +1,15 @@
+{
+  "name": "express-tester",
+  "version": "1.0.0",
+  "description": "How to send a file",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khurrum ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

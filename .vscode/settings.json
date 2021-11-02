@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "iostream": "cpp"
+  }
+}

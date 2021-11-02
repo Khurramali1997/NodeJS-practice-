@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Testing</title>
+  </head>
+  <body>
+    <h1>Hello USER</h1>
+    <form action="/users" method="POST">
+      <!--name output is a must else data is not populated-->
+      <input type="text" name="user" class="user" value="James Bond" />
+      <input type="text" name="id" class="id" value="" />
+      <button type="submit" class="submit">Submit</button>
+    </form>
+    <button type="crud" class="btn">CRUD</button>
+    <button type="crud" class="getjson">GET JSON</button>
+    <button type="crud" class="getuser">GET USER</button>
+    <script src="static/script.js"></script>
+  </body>
+</html>
